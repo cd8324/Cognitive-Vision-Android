@@ -54,19 +54,19 @@ uploadArchives {
                 description 'This client library allows the use of Microsoft\'s state-of-the-art cloud-based computer vision algorithms to return information based on the visual content, and to generate your ideal thumbnail. See https://github.com/Microsoft/ProjectOxford-ClientSDK/tree/master/Vision for more information.'
 
                 // Project URL
-                url 'https://github.com/Microsoft/ProjectOxford-ClientSDK'
+                url 'https://github.com/cd8324/Cognitive-Vision-Android-Latest'
 
                 // Github information
                 scm {
-                    connection 'scm:git:https://github.com/Microsoft/ProjectOxford-ClientSDK'
-                    developerConnection 'scm:git:https://github.com/Microsoft/ProjectOxford-ClientSDK'
-                    url 'scm:git:https://github.com/Microsoft/ProjectOxford-ClientSDK'
+                    connection 'scm:git:https://github.com/cd8324/Cognitive-Vision-Android-Latest'
+                    developerConnection 'scm:git:https://github.com/cd8324/Cognitive-Vision-Android-Latest'
+                    url 'scm:git:https://github.com/cd8324/Cognitive-Vision-Android-Latest'
                 }
 
                 licenses {
                     license {
                         name 'MIT'
-                        url 'https://github.com/Microsoft/ProjectOxford-ClientSDK/blob/master/LICENSE.md'
+                        url 'https://github.com/cd8324/Cognitive-Vision-Android-Latest/blob/master/LICENSE.md'
                     }
                 }
 
